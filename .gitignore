@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+sbvirenv
+db.sqlite3
+/static
+.DS_Store
+
+sbvirenv/
